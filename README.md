@@ -1,1 +1,1 @@
-# PandasExcelTricks
+# Pandas Excel Cleaning Tricks
